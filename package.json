@@ -1,0 +1,15 @@
+{
+  "name": "webpack-workshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch": "webpack --watch",
+    "build": "webpack"
+  },
+  "author": "",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "webpack": "^3.6.0"
+  }
+}
